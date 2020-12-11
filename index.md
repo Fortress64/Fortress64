@@ -1,8 +1,5 @@
-## A New Beginning, A New Era.
+## Welcome to our new website
 
-Fortress Linux is now merged into our new company label.
+But there is still some work to do before we can go live:
 
-And we will continue to provide you with new services & products to keep your data & online privacy as secure as possible.
-
-Our new website can be found at:
-![Image](fwd.jpg)
+* 11 Dec 2020 - Migrating our servers, services and domains.
