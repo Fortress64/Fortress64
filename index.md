@@ -1,9 +1,7 @@
 ---
 title: Fortress64
-subtitle: Fortress64
+subtitle: Fortress64 development site.
 layout: page
-callouts: home_callouts
-show_sidebar: true
 ---
 
 # Welcome to our new website, but we are still working on it:
