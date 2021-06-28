@@ -4,7 +4,7 @@ subtitle: Fortress64 - Securing your Digital Privacy
 layout: page
 callouts: home_callouts
 show_sidebar: true
-hero_image: /Fortress64/img/Fortress64-Logo-White.png
+hero_image: /Fortress64/img/Fortress64-Logo-White-Site.jpg
 ---
 
 # Bulma Clean Theme demo website
