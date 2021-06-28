@@ -1,6 +1,4 @@
 ---
-title: Fortress64
-subtitle: Fortress64 - Securing your Digital Privacy
 layout: page
 callouts: home_callouts
 show_sidebar: true
