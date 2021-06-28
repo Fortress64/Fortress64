@@ -2,7 +2,8 @@
 layout: page
 callouts: home_callouts
 show_sidebar: true
-image: /Fortress64/img/Fortress64-Logo-White-Site.jpg
+hero_image: /Fortress64/img/Fortress64-Logo-White-Site.jpg
+hero_darken: true
 ---
 
 # Bulma Clean Theme demo website
